@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:id="@+id/event_note"
+       android:icon="@drawable/outline_event_note_black_18dp"
+        android:title="календар"/>
+    <item android:id="@+id/cloud"
+          android:icon="@drawable/outline_cloud_done_black_18dp"
+          android:title="звіт"/>
+    <item android:id="@+id/add_to"
+          android:icon="@drawable/outline_add_to_home_screen_black_18dp"
+          android:title="виклик"/>
+    <item android:id="@+id/home"
+          android:icon="@drawable/outline_apps_black_18dp"
+          android:title="меню"/>
+    <item android:id="@+id/crm"
+          android:icon="@drawable/outline_business_center_black_18dp"
+          android:title="crm"/>
+
+</menu>
